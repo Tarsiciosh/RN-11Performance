@@ -1,0 +1,12 @@
+{
+  "name": "11Performance",
+  "displayName": "11Performance",
+  "expo": {
+    "name": "11Performance",
+    "slug": "11Performance",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
